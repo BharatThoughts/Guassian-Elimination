@@ -7,6 +7,14 @@ The input file should be a CSV (Comma-Separated Values) file containing the augm
 
 For reference or for testing, use input file [Book2.csv](Book2.csv).
 
+## Supported Error Handling
+
+The program handles the following errors:
+
+- If the input file does not exist, an error message is displayed, and the program terminates.
+- If the system of equations has no solution or infinite solutions, an appropriate message is displayed, and the program terminates.
+
+
 ## License
 
 This program is released under the [MIT License](https://opensource.org/licenses/MIT).

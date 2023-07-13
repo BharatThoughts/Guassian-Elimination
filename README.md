@@ -21,4 +21,4 @@ This program is released under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-This program was written by Bharat Singh.
+This program was written by [Bharat Singh](https://twitter.com/BharatThoughts_).

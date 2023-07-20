@@ -21,4 +21,4 @@ This program is released under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-This program was written by [Bharat Singh](www.linkedin.com/in/nenawath-bharat-singh) on 24/11/22. Some minor modifications were made on 5/12/22 like reading negative fractions and cleaning the code.
+This program was written by [Bharat Singh](https://www.linkedin.com/in/nenawath-bharat-singh/) on 24/11/22. Some minor modifications were made on 5/12/22 like reading negative fractions and cleaning the code.
